@@ -4,7 +4,7 @@ PaS (Put at Stake Trivia) is a simple trivia app which lets you create your
 own quiz and then share it with your friends to put your friendship at
 stake.
 
-See full details at: https://pas.herokuapp.com/about
+See full details at: https://putatstake.herokuapp.com/about
 
 To add more questions to the quiz and contribute to the project,
 append to: <br />
